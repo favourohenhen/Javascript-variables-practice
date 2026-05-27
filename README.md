@@ -1,9 +1,9 @@
-# JavaScript Variables Practice 
+# JavaScript Variables Practice
 
 A collection of practice exercises I completed while learning 
 JavaScript variables and data types.
 
-## Topics Covered
+## Topics Covered  
 - var, let, const
 - Strings & Numbers
 - Booleans
