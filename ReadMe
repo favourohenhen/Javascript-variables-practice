@@ -1,0 +1,14 @@
+# JavaScript Variables Practice
+
+A collection of practice exercises I completed while learning 
+JavaScript variables and data types.
+
+## Topics Covered
+- var, let, const
+- Strings & Numbers
+- Booleans
+- Arrays
+- Objects
+
+## Structure
+Each folder contains a questions.js and answers.js file.
