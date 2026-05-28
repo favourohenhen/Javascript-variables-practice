@@ -86,6 +86,7 @@ console.log(`The user is logged in: ${isLoggedIn}`)
 
 
 //Answer 13
+let aGe = 20
 let isEligbileToVote = aGe >= 18;
 console.log(isEligbileToVote)
 
